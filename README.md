@@ -1,6 +1,9 @@
+ <a href="https://imgur.com/ibOHthW"><img src="https://i.imgur.com//ibOHthW.png" title="source: imgur.com" /></a>
 # Configuring-Active-Directory-within-Azure-VM
 
-Create Domain Controller VM on (Windows Server 2022)
+Create On-Premise Active Directory
+
+Domain Controller VM on (Windows Server 2022)
 
 Set Domain Controller’s NIC Private IP address to be static
   
