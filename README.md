@@ -5,7 +5,7 @@ Create On-Premise Active Directory
 
 Domain Controller VM on (Windows Server 2022)
 
-Set Domain Controller’s NIC Private IP address to be static
+# Set Domain Controller’s NIC Private IP address to 'static'
   
   <a href="https://imgur.com/Laebe0Z"><img src="https://i.imgur.com//Laebe0Z.png" title="source: imgur.com" /></a>
 
